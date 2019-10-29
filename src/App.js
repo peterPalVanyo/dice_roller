@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Die/>
+      <Die face='two'/>
+      <Die face='four'/>
     </div>
   );
 }
